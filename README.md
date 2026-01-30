@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 # Contact
 <a href="mailto:minkyu2045@ajou.ac.kr">Email</a>
 <a href="https://github.com/0o3q">Github</a>
-<a href="https://twitter.com/mingw03">Twitter</a>
+<a href="https://twitter.com/mmmingw">Twitter</a>
 <a href="https://www.instagram.com/minkyu_0o3">Instagram</a>
 
 ---
